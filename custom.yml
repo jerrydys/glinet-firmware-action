@@ -7,6 +7,17 @@ feeds:
 packages:
   - luci-app-mwan3
   - luci-app-frpc
+  - luci-app-ssr-plus
+  - luci-i18n-ssr-plus-zh-cn
+  - shadowsocksr-libev-ssr-check
+  - shadowsocksr-libev-ssr-local
+  - shadowsocksr-libev-ssr-redir
+  - shadowsocksr-libev-ssr-server
+  - tcping
+  - v2ray-core
+  - v2ray-plugin
+  - xray-core
+  - luci-app-passwall
 
 
 
